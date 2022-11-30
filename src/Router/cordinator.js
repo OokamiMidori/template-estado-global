@@ -6,4 +6,7 @@ export function handleHome(navigate) {
     navigate("/cart");
   }
   
+  export function handleAddFruit(navigate){
+    navigate("/addfruit")
+  }
   
